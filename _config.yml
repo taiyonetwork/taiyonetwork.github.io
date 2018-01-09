@@ -1,2 +1,5 @@
 name: Taiyo Network
 markdown: kramdown
+
+
+permalink: /blog/:year/:month/:day/:title
